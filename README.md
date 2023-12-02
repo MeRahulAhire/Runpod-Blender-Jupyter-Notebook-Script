@@ -1,7 +1,10 @@
 # Runpod-Blender-Jupyter-Notebook-Script
 **Upload the Jupyter Notebook to Runpod and play all the snippets one by one. If you face any issues, feel free to create an issue.**
 
-Make sure first that you're in `/workspace` directory
+First, make sure that you're in `/workspace` directory as highlighted below 
+
+![JupyterLab - Google Chrome 02-12-2023 16_39_55](https://github.com/MeRahulAhire/Runpod-Blender-Jupyter-Notebook-Script/assets/42251052/aec4a8cc-3e68-4dbb-93f3-3fa34517ffd9)
+
 
 The easiest way to upload the script to Runpod is open the terminal within the Jupyter notebook of Runpod and copy paste the following command.
 ```bash
