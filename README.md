@@ -1,5 +1,13 @@
 # Runpod-Blender-Jupyter-Notebook-Script
 
+**This repo is part of my YouTube demo on how to use Runpod**
+
+[![Rahul Ahire - YouTube - Google Chrome 10-12-2023 19_43_40](https://github.com/MeRahulAhire/Runpod-Blender-Jupyter-Notebook-Script/assets/42251052/736e2e3d-757c-44c3-8746-079baa0fe4ef)](https://www.youtube.com/watch?v=sJ-Diy93TAg)
+
+Watch here - https://www.youtube.com/watch?v=sJ-Diy93TAg
+<hr>
+
+
 First, make sure that you're in `/workspace` directory as highlighted below 
 
 ![JupyterLab - Google Chrome 02-12-2023 16_39_55](https://github.com/MeRahulAhire/Runpod-Blender-Jupyter-Notebook-Script/assets/42251052/aec4a8cc-3e68-4dbb-93f3-3fa34517ffd9)
