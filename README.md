@@ -15,7 +15,7 @@ First, make sure that you're in `/workspace` directory as highlighted below
 
 Open the terminal by clicking on the terminal icon and copy paste the following command.
 ```bash
-wget https://raw.githubusercontent.com/MeRahulAhire/Runpod-Blender-Jupyter-Notebook-Script/refs/heads/main/Virtual%20Machine%20Blender%20Scirpt.ipynb
+wget https://github.com/MeRahulAhire/Runpod-Blender-Jupyter-Notebook-Script/raw/refs/heads/main/%E2%80%8ERunpod%20Blender%20Script%20-%20Jupyter%20Notebook.ipynb
 ```
 
 Or else you and also download the script [here](https://github.com/MeRahulAhire/Runpod-Blender-Jupyter-Notebook-Script/blob/main/Runpod%20Blender%20Script%20-%20Jupyter%20Notebook.ipynb) locally and drag and drop the file into the Jupyter IDE on Runpod.
